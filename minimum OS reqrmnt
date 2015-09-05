@@ -1,0 +1,20 @@
+
+James Dennes (GitHub Support) <support@github.com>
+Aug 13
+
+to me 
+Hi Barbara,
+
+GitHub Desktop requires OS X 10.9+.
+
+We've decided not to continue to support older versions, as we want to concentrate on improving the application going forward and not continue to maintain and distribute legacy versions.
+
+If at all possible, we strongly recommend upgrading to Mac OS X 10.9 or later so you can continue to use GitHub Desktop and get the best experience possible. If that's not possible, you can use Git from the command line, or you can use another desktop client. There is a list of clients here, however we can't provide any official recommendations of other desktop clients:
+
+http://git-scm.com/downloads/guis
+
+Thanks,
+James
+
+> I am enrolled in a coursera course Data Scientist's Toolbox. We are to download Git and Github. My MacBook Pro is OX 10.6.8v.1.1. Is it possible to use your software on this computer? Thank you!
+> What would you advise?
